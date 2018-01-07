@@ -9,3 +9,8 @@ future 2
 dev commit
 
 issue 1
+stash test
+
+dev local change
+
+git hub edit
