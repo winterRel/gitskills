@@ -7,3 +7,7 @@ future 1
 future 2
 
 dev commit
+
+stash test
+
+dev local change
